@@ -1,0 +1,28 @@
+{
+  "name": "fetch-retry-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc --esModuleInterop index.ts",
+    "start": "npm run build && node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sgohlke/fetch-retry-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sgohlke/fetch-retry-example/issues"
+  },
+  "homepage": "https://github.com/sgohlke/fetch-retry-example#readme",
+  "devDependencies": {
+    "@types/node": "15.12.4",
+    "typescript": "4.3.4"
+  },
+  "dependencies": {
+    "fetch-retry": "4.1.1",
+    "isomorphic-fetch": "^3.0.0"
+  }
+}
