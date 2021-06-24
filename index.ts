@@ -1,5 +1,5 @@
 import fetchOriginal from 'isomorphic-fetch';
-import fetchRetry from 'fetch-retry'
+import fetchRetry from 'fetch-retry-ts'
 
 // Since version 2 this worked without problems
 /*

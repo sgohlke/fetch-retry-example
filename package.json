@@ -22,7 +22,7 @@
     "typescript": "4.3.4"
   },
   "dependencies": {
-    "fetch-retry": "4.1.1",
+    "fetch-retry-ts": "^1.1.24",
     "isomorphic-fetch": "^3.0.0"
   }
 }
