@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/sgohlke/fetch-retry-example#readme",
   "devDependencies": {
-    "@types/node": "16.7.7",
+    "@types/node": "16.9.0",
     "typescript": "4.4.2"
   },
   "dependencies": {
